@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-tools=github:edisonchiu/pxt-tools
+tools=github:edisonchiu/microbit/tree/master/pxt-tools
 ```
